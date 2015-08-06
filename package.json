@@ -1,0 +1,28 @@
+{
+  "name": "word-transformer",
+  "version": "1.0.0",
+  "description": "Solution to word transformation problem. Given a dictionary of words, transform one word to another with each transformation being a word in given dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juzerali/word-transformer"
+  },
+  "keywords": [
+    "graph",
+    "words",
+    "dictionary",
+    "transformation"
+  ],
+  "author": "Juzer Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juzerali/word-transformer/issues"
+  },
+  "homepage": "https://github.com/juzerali/word-transformer",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
